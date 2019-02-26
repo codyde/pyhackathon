@@ -33,7 +33,7 @@ The`import os` is something we can use to read in Operating System environment v
 
 The `import flask` block references access a webframework known as flask. We will be covering this platform in a much later tutorial, but if you want to skip ahead, no one is stopping you :) (http://flask.pocoo.org/)
 
-The `import requests` block is one we will be using extnesively as it allows you to interact with http requests.
+The `import requests` block is one we will be using extensively as it allows you to interact with http requests.
 
 ## Creating Variables
 
