@@ -16,7 +16,7 @@ Our primary goal of this training is to get you familiar with calling and intera
 
 ## Hey, I found an error
 
-PR it! We want to see this set of modules grow! Help us make it better by issuing PR's against content when you find something that isn't working well or that can be improved! Let's make this a community effort!
+PR it! We want to see this set of modules grow! Help us make it better by issuing PR's (Pull Requests in Git-lingo) against content when you find something that isn't working well or that can be improved! Let's make this a community effort!
 
 ## Creators 
 
