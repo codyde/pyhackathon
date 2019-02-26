@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction
 
 Welcome to the Python Haackathon content for getting started with APIS! 
 
@@ -19,7 +19,7 @@ Our primary goal of this training is to get you familiar with calling and intera
 
 PR it! We want to see this set of modules grow! Help us make it better by issuing PR's (Pull Requests in Git-lingo) against content when you find something that isn't working well or that can be improved! Let's make this a community effort!
 
-## Creators 
+## Creators
 
-* Grant Orchard (gorchard@vmware.com)
-* Cody De Arkland (cdarkland@vmware.com)
+* Grant Orchard (__twitter:__ @grantorcharad __email:__ gorchard@vmware.com)
+* Cody De Arkland (__twitter:__ @codydearkland __email:__ cdarkland@vmware.com)
