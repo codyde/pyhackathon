@@ -41,7 +41,7 @@ _requirements.txt_
 requests
 flask
 ```
-
+_from bash prompt_
 ```bash
 pip3 install -r requirements.txt
 ```
