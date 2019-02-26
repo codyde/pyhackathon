@@ -21,5 +21,5 @@ PR it! We want to see this set of modules grow! Help us make it better by issuin
 
 ## Creators
 
-* Grant Orchard (__twitter:__ @grantorcharad __email:__ gorchard@vmware.com)
+* Grant Orchard (__twitter:__ @grantorchard __email:__ gorchard@vmware.com)
 * Cody De Arkland (__twitter:__ @codydearkland __email:__ cdarkland@vmware.com)
