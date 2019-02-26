@@ -127,4 +127,4 @@ def examplefunction(description):
 examplefunction('ugly')
 ```
 
-Using F Strings we can feed our value directly into a string, in this case, we have simplified the code, and made it more readabl. 
+Using F Strings we can feed our value directly into a string, in this case, we have simplified the code, and made it more readable. At the end, our function executes, calling Chris's Slaters statement of work ugly. Poor Chris.
