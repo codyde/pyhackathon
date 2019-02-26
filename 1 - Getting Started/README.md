@@ -59,4 +59,18 @@ print(a)
 
 ## Access Environment Variables
 
+It's very common for users to access variables set at an operating system level within Python scripts. This might be connection URLs or other configuration items. Usernames and credentials are discouraged to be stored as environment variables; but are sometimes used in this way for environments.
+
+As mentioned earlier, we use the os module via `import os` to access methods that support reading environment variables (among other items). 
+
+```bash
+export url='http://codyslab.com'
+```
+
+```python
+import os
+url = os.environ.get('url')
+print(url)
+```
+
 ## Simple Functions
