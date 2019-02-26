@@ -11,6 +11,7 @@ Our primary goal of this training is to get you familiar with calling and intera
 ## Requirements
 
 * Python 3 (brew install python3 on Mac or https://www.python.org/downloads/ on PC)
+* An IDE (highly reccomend VS Code (https://code.visualstudio.com/) with the python extensions installed)
 * Gumption
 * Tolerancy of Australian's (Unless you are one, in which case, you're ahead of the game!)
 
