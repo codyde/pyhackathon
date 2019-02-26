@@ -13,12 +13,14 @@ In this module, we are going to cover the first and second methods of installing
 PIP and PIP3  (python2 and python3 respectively) are package managers for python code. Most commonly they are used to install modules for working in Python however there are many command line utilities that are installed via pip as well. PIP is something you will use very often in your Python adventures!
 
 ## Virtual Environments
+
 When working with multiple projects, you may find that you need different versions of particular modules. If you install modules into your native environment, then you may find conflicts between these. To get around this problem you can make use of virtual environments - these provide a self contained directory structure and other dependencies for your project.
 
-To
+Assuming you have cloned this repository already, change to your local repository and then run 
 
-Assuming you have cloned this repository already, change to your local repository and then run "python3 -m venv .". This will create the virtual environment. TO activate it, run "./bin/activate" (Mac/Linux) or ".\Scripts\activate.bat" (Windows).
+`python3 -m venv .`
 
+This will create the virtual environment. TO activate it, run `./bin/activate` (Mac/Linux) or `.\Scripts\activate.bat` (Windows).
 
 ## Our First Module Install
 
