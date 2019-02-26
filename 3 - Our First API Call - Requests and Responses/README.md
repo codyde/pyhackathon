@@ -81,7 +81,7 @@ def get_starwars_character(id):
     return req.json()
 ```
 
-We will leave this function alone now, as we will be coming back to it in the next module where we start to interact with JSON objects. For now, lets create a few more creative functions.
+Now when we execute this function, the function tells the requests module to return the JSON object associated with the call. We will leave this function alone now, as we will be coming back to it in the next module where we start to interact with JSON objects. For now, lets create a few more creative functions.
 
 Browse to the Star Wars API and look at a few of the documented API endpoints and create some useful functions of your own. Consider issuing a Pull Request via github to this repo to add these examples to the training!
 
