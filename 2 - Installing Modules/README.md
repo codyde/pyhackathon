@@ -36,12 +36,14 @@ import requests
 
 When installing multiple modules in a project, consider distributing a requirements.txt file along with them, and using that as the reference list for installing. For example...
 
-_requirements.txt_
+### requirements.txt:
+
 ```text
 requests
 flask
 ```
-_from bash prompt_
+
+### From bash prompt:
 ```bash
 pip3 install -r requirements.txt
 ```
