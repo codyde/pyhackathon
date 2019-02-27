@@ -109,7 +109,7 @@ What if we wanted to include arguments? We can do this by placing the argument n
 ```python
 def examplefunction(url):
     a = 'Grants Function'
-    b = a + ' is at the address ' url
+    b = a + ' is at the address ' + url
     print(b)
     return b
 
@@ -120,7 +120,7 @@ In this example we feed in a value (url) which is used to construct another vari
 
 ```python
 def examplefunction(description):
-    a = f'Chris has a {description} statment of work'
+    a = f'Chris has a {description} statement of work'
     print(a)
     return a
 
