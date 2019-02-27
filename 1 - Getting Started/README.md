@@ -4,7 +4,7 @@ _Estimated Time to Completion: 15-25 minutes_
 
 ## What are we doing
 
-In this module we will begin our basic interactions with Python. We will work with a few concepts in the command line. 
+In this module we will begin our basic interactions with Python. We will work with a few concepts in the command line.
 
 * Importing Modules
 * Creating Variables
@@ -42,7 +42,7 @@ Variables are values stored within memory behind an identifier. Python is an obj
 Creating variables is easy!
 
 ```python
-a = "Codys Variable"
+a = "Cody's Variable"
 b = "Grant's Variable"
 c = "Chris Slater doesn't get a variable"
 ```
