@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Python Haackathon content for getting started with APIS!
+Welcome to the Python Hackathon content for getting started with APIS!
 
 In this course, we will show you to work with with API's levraging Python. You will learn how to intract from the command prompt, how to install and consume modules, how to build simple scripts, how to call/return data from an API (using https://swapi.co/ - the Star Wars API!), and much more!
 
